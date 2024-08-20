@@ -1,5 +1,5 @@
 ---
 title: "centerlabels_uk"
-url: /bridge-of-earn/centerlabels_uk/
-shop: shop
+url: /www.centerlabels.co.uk/
+shop: online shop
 ---
